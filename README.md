@@ -5,6 +5,7 @@ Este repositorio contiene implementaciones en Python de ejercicios de algoritmos
 Tecnologías utilizadas:
 * Python
 * Thonny
+
 En este repositorio se encuentra el PDF, llamado "P1__Guia_de_Trabajos_Practicos_2019", con la lista de ejercicios realizados. Cada carpeta corresponde a un módulo o trabajo práctico del PDF.
 
 Para ejecutar cada archivo/algoritmo, simplemente hay que abrirlo en un IDE de Python y ejecutarlo.
